@@ -1,3 +1,4 @@
+
 body {
   font-family: "Raleway", sans-serif;
 }
@@ -5,6 +6,7 @@ body {
 /* Hero Section */
 
 #Hero-Section {
+  background-color: black;
   background-image: url("../img/chillanfly.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
